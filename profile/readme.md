@@ -32,8 +32,8 @@ Soluciones tecnológicas integrales desde Guatemala 🇬🇹
 
 | Producto | Descripción | Estado |
 |---|---|---|
-| 🏥 **[xaCare](https://github.com/XACodev/xaCare)** | Sistema de gestión para quirófano y honorarios médicos | ![Active](https://img.shields.io/badge/Activo-22C55E?style=flat-square) |
-| 🌐 **xaWeb** | Servicio de desarrollo y gestión de sitios web | ![Active](https://img.shields.io/badge/Activo-22C55E?style=flat-square) |
+| 🏥 **[xaCare](https://care.xacode.dev)** | Sistema de gestión para quirófano y honorarios médicos | ![Active](https://img.shields.io/badge/Activo-22C55E?style=flat-square) |
+| 🌐 **[xaWeb](https://xaweb.dev)** | Servicio de desarrollo y gestión de sitios web | ![Active](https://img.shields.io/badge/Activo-22C55E?style=flat-square) |
 | 🚗 **xaFleet** | Sistema de gestión de flota vehicular | ![Soon](https://img.shields.io/badge/Próximamente-2B7FE0?style=flat-square) |
 
 </div>
