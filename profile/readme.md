@@ -49,12 +49,12 @@ Soluciones tecnológicas integrales desde Cobán, Guatemala 🇬🇹
 
 ## 🤝 Con quién trabajamos
 
-| Sector | Trabajo realizado |
+| Cliente | Trabajo realizado |
 |---|---|
-| **Salud** · hospital privado en Cobán | Sitio web institucional bilingüe con CMS propio (Lighthouse móvil 37 → 99), inventario de equipos, xaCare, xaSeguros y piloto de xaTiende |
+| [**Hospital Nuestra Señora del Carmen**](https://hospitalcoban.com) · salud, Cobán | Sitio web institucional bilingüe con CMS propio (Lighthouse móvil 37 → 99), inventario de equipos, xaCare, xaSeguros y piloto de xaTiende |
 | **Farmacia** · cadena de farmacias | Rescate de emergencia de su sistema tras perder el servidor e integración de facturación electrónica FEL (SAT) |
 | **Alimentos** · negocio local | Primer negocio en xaPedidos: tienda móvil con marca propia y pedidos por WhatsApp |
-| **Software** · sistema de punto de venta | Rediseño de su sitio web con identidad propia y modo oscuro |
+| [**NawokPOS**](https://nawokpos.com) · software de punto de venta | Rediseño de su sitio web con identidad propia y modo oscuro |
 
 </div>
 
