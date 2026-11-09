@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=256&color=0:7DD3C0,100:8BB4FF&text=XACode&section=header&fontColor=19435e&desc=Software%20%C2%B7%20SaaS%20%C2%B7%20Web%20%C2%B7%20Infraestructura&descSize=18&fontAlignY=34&descAlignY=52" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=256&color=0:7DD3C0,100:8BB4FF&text=XACode&section=header&fontColor=19435e&desc=Software%20%C2%B7%20Redes%20%C2%B7%20Soporte%20%C2%B7%20Consultor%C3%ADa&descSize=18&fontAlignY=34&descAlignY=52" width="100%"/>
 
 <div align="center">
 
-### Software a medida · Productos SaaS · Sitios web · Infraestructura · Soporte
+### Software a medida · Redes · Soporte · Consultoría · Productos SaaS
 
 Soluciones tecnológicas integrales desde Cobán, Guatemala 🇬🇹
 
@@ -21,6 +21,8 @@ Soluciones tecnológicas integrales desde Cobán, Guatemala 🇬🇹
 | <img src="assets/xacare-mark.svg" width="28" alt="" align="center"/> **[xaCare](https://care.xacode.dev)** | Gestión hospitalaria y clínica: pacientes, ingresos, quirófano (QxLog), honorarios y cotizaciones de cirugía | ![Activo](https://img.shields.io/badge/En_producción-22C55E?style=flat-square) |
 | <img src="assets/xatiende-mark.svg" width="28" alt="" align="center"/> **[xaTiende](https://xatiende.com)** | Atención al cliente por WhatsApp: bandeja compartida, bot de menús y flujos, asistente inteligente (Olmar), catálogo y pedidos | ![Beta](https://img.shields.io/badge/Beta_con_pilotos-F59E0B?style=flat-square) |
 | <img src="assets/xaseguros-mark.svg" width="28" alt="" align="center"/> **[xaSeguros](https://seguros.xacode.dev)** | Seguimiento de reclamos a aseguradoras: tablero Kanban, regla del 25, calculadora de participaciones, consolidaciones FEL | ![Activo](https://img.shields.io/badge/En_producción-22C55E?style=flat-square) |
+| 🪪 **xaLectorID** | Lectura del DPI de Guatemala con lector de tarjetas: datos de RENAP, API local y webhook firmado para integrarlo en tus sistemas | ![Disponible](https://img.shields.io/badge/Disponible-22C55E?style=flat-square) |
+| 💳 **xaPagos** | Vouchers de pago, planilla y recursos humanos | ![Beta](https://img.shields.io/badge/Beta-F59E0B?style=flat-square) |
 | <img src="assets/xapedidos-mark.svg" width="28" alt="" align="center"/> **xaPedidos** | Tienda móvil con marca propia por negocio: el cliente arma su pedido, confirma por WhatsApp y le da seguimiento | ![Soon](https://img.shields.io/badge/Próximamente-2B7FE0?style=flat-square) |
 | <img src="assets/xafleet-mark.svg" width="28" alt="" align="center"/> **xaFleet** | Gestión de flota vehicular: vehículos, conductores, mantenimientos y recorridos | ![Soon](https://img.shields.io/badge/Próximamente-2B7FE0?style=flat-square) |
 | 🌐 **xaWeb** | Servicio de diseño, desarrollo y gestión de sitios web (Astro + CMS editable por el cliente) | ![Activo](https://img.shields.io/badge/Activo-22C55E?style=flat-square) |
@@ -45,14 +47,14 @@ Soluciones tecnológicas integrales desde Cobán, Guatemala 🇬🇹
 
 <div align="center">
 
-## 🤝 Clientes
+## 🤝 Con quién trabajamos
 
-| Cliente | Sector | Trabajo realizado |
-|---|---|---|
-| **[Hospital Nuestra Señora del Carmen](https://hospitalcoban.com)** | Salud · Cobán | Sitio web institucional bilingüe con CMS propio (Lighthouse móvil 37 → 99), inventario de equipos, xaCare, xaSeguros y piloto de xaTiende |
-| **Farmacias Farco** | Farmacia | Rescate de emergencia de su sistema Pharmasys tras la pérdida del servidor en Heroku e integración de facturación electrónica FEL (SAT) |
-| **Waffle** | Alimentos | Primer negocio en xaPedidos: tienda móvil con marca propia y pedidos por WhatsApp |
-| **[NawokPOS](https://nawokpos.com)** | Software · POS | Rediseño de su sitio web con identidad propia y modo oscuro |
+| Sector | Trabajo realizado |
+|---|---|
+| **Salud** · hospital privado en Cobán | Sitio web institucional bilingüe con CMS propio (Lighthouse móvil 37 → 99), inventario de equipos, xaCare, xaSeguros y piloto de xaTiende |
+| **Farmacia** · cadena de farmacias | Rescate de emergencia de su sistema tras perder el servidor e integración de facturación electrónica FEL (SAT) |
+| **Alimentos** · negocio local | Primer negocio en xaPedidos: tienda móvil con marca propia y pedidos por WhatsApp |
+| **Software** · sistema de punto de venta | Rediseño de su sitio web con identidad propia y modo oscuro |
 
 </div>
 
